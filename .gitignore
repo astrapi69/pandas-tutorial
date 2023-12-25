@@ -163,3 +163,9 @@ cython_debug/
 .idea/*.*
 /.project
 /.pydevproject
+
+##########################
+# jupyter notebook files #
+##########################
+/interview/.ipynb_checkpoints/**
+/10-minutes-to-pandas/.ipynb_checkpoints/**
