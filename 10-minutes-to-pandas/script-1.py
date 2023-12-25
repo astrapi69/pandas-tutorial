@@ -26,3 +26,4 @@ print(df2)
 
 print(df2.dtypes)
 
+
